@@ -4,14 +4,12 @@
 ---
 
 <div align="center">
-![Platform](https://img.shields.io/badge/Platform-.NET%208-512BD4?style=for-the-badge&logo=dotnet)
-![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=for-the-badge&logo=csharp)
-![Architecture](https://img.shields.io/badge/Architecture-Layered%20%2B%20Service%20Pattern-0078D4?style=for-the-badge)
-![Storage](https://img.shields.io/badge/Storage-JSON%20File%20Persistence-F7A800?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-Encapsulation%20%7C%20Inheritance%20%7C%20Polymorphism%20%7C%20Abstraction-C0392B?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Platform-.NET%208-512BD4?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Language-C%23%2012-239120?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Architecture-Layered%20%2B%20Service%20Pattern-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Storage-JSON%20File%20Persistence-F7A800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Encapsulation%20%7C%20Inheritance%20%7C%20Polymorphism%20%7C%20Abstraction-C0392B?style=for-the-badge" />
 </div>
-
 ---
 
 ## 📋 Table of Contents
