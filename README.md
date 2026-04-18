@@ -4,7 +4,6 @@
 ---
 
 <div align="center">
-
 ![Platform](https://img.shields.io/badge/Platform-.NET%208-512BD4?style=for-the-badge&logo=dotnet)
 ![Language](https://img.shields.io/badge/Language-C%23%2012-239120?style=for-the-badge&logo=csharp)
 ![Architecture](https://img.shields.io/badge/Architecture-Layered%20%2B%20Service%20Pattern-0078D4?style=for-the-badge)
